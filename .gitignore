@@ -5,5 +5,4 @@ dist/
 /dev.ipynb
 *.egg-info/
 build/
-*.ipynb
 !/docs
